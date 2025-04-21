@@ -1,11 +1,12 @@
 {
   "name": "whatsapp-bot",
   "version": "1.0.0",
-  "description": "Anime-themed WhatsApp created by Abdurrahman Sûdãïs",
+  "description": "Anime-themed WhatsApp bot using Baileys",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
+  "keywords": ["whatsapp", "baileys", "bot", "anime", "senku"],
   "author": "Abdurrahman Sudais 🏆💕",
   "license": "MIT",
   "dependencies": {
